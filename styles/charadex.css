@@ -15,24 +15,24 @@
   /* ============================================================= */
   /* Primary Color
   ================================================================ */
-  --cd-primary-color:                    #e7d0ae;
+  --cd-primary-color:                    #3a9e6b;
   --cd-primary-text-color:               #fff;
 
   /* ============================================================= */
   /* Secondary Color
   ================================================================ */
-  --cd-secondary-color:                  #49404c;
+  --cd-secondary-color:                  #b4ffcc;
   --cd-secondary-text-color:             #fff;
 
   /* ============================================================= */
   /* Backgrounds
   ================================================================ */
-  --cd-body-background-color:            #e9e9e9;
+  --cd-body-background-color:            #9d957f;
   --cd-content-background-color:         #ffffff;
-  --cd-faded-background-color:           #e9e9e9;
+  --cd-faded-background-color:           #9d957f;
 
   /* Background Extras */
-  --cd-body-background-image:              url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ba94f1d6-4c8e-4299-b43c-5b12720600eb/dfhh5c2-4867ff96-e600-4522-bab3-f7d8836940ec.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2JhOTRmMWQ2LTRjOGUtNDI5OS1iNDNjLTViMTI3MjA2MDBlYlwvZGZoaDVjMi00ODY3ZmY5Ni1lNjAwLTQ1MjItYmFiMy1mN2Q4ODM2OTQwZWMuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.-gIWtevJ5_jbH7n7LVelAHd9Ljp29urXqvbxYpP9Upo);
+  --cd-body-background-image:              url(https://cdn.discordapp.com/attachments/1191946282357506118/1191946398460035072/Untitled130_20240102111153.png?ex=65a74996&is=6594d496&hm=50edd06a54d1becf5e397cabd22c6ddd809fc6172d8a56c2e819c39553305c09&);
 
   /* ============================================================= */
   /* Text
